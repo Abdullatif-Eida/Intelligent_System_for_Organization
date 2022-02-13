@@ -10,12 +10,15 @@ Figure : ACT Bank main page
 Figure : ACT Bank admin main page
 
 ![image](https://user-images.githubusercontent.com/35701617/153746124-74d766af-679b-48bc-8dda-b23b3a1025bb.png)
+
 Figure : classification page for one customer
 
 ![image](https://user-images.githubusercontent.com/35701617/153746128-b77d5e93-0a04-400e-ae84-3fbac1b7a448.png)
+
 Figure : classification page for one customer
 
 ![image](https://user-images.githubusercontent.com/35701617/153746138-a1dd71c4-dcde-434e-a2a8-3bd242f780fc.png)
+
 Figure : Excel file that will be classified
 
 ![image](https://user-images.githubusercontent.com/35701617/153746148-11cd4607-427b-4ea0-a7aa-c2be9f8d8734.png)
